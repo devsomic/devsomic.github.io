@@ -21,6 +21,7 @@ uWiFi is an Android app that lets users to set up their university accounts to c
 ### Contact us
 
 If you want to ping us, send us an email to [devsomic@gmail.com](mailto:devsomic@gmail.com) or follow us in:
-* Twitter [@devsomic](https://twitter.com/_juancb)
+
+* Twitter [@devsomic](https://twitter.com/devsomic)
 * Facebook [@devsomic](https://facebook.com/devsomic)
 * [Website](http://devsomic.com)
