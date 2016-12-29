@@ -1,6 +1,6 @@
 ## Devsomic - Developing ideas, building apps. Mobile applications for humans
 
-![header-image](resources/devsomic.png)
+![header-image](Resources/devsomic.png)
 
 We craft digital products like mobile apps for fun and learning. We started devsomic some years ago during our Computer Science studies, and now it's a friends-brand for building the projects we love.
 
@@ -11,7 +11,7 @@ We developed some projects previously like [uPadel](https://play.google.com/stor
 
 ### UWiFi
 
-![uWiFi-logo](resources/uWiFi.png)
+![uWiFi-logo](Resources/uWiFi.png)
 
 uWiFi is an Android app that lets users to set up their university accounts to connect to [EDUROAM](https://www.eduroam.org/) WiFi. Nowadays, there is only available the uWiFi app fixed for the [University of Salamanca's](http://usal.es) users.
     
