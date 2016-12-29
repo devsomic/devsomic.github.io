@@ -11,11 +11,11 @@ We developed some projects previously like [uPadel](https://play.google.com/stor
 
 ### UWiFi
 
-![uWiFi-logo](Resources/uWiFi.png)
+![uWiFi-logo](Resources/uWiFi.png){:height="250px"}
 
 uWiFi is an Android app that lets users to set up their university accounts to connect to [EDUROAM](https://www.eduroam.org/) WiFi. Nowadays, there is only available the uWiFi app fixed for the [University of Salamanca's](http://usal.es) users.
     
-    Our app is not availabe at this moment in Google Play due an image conflict with the University of Salamanca. While this issue is solved donwload the APK from [here](https://drive.google.com/file/d/0BwS7cZg3riXtaUZxd3RXQ0k2WEE/view?usp=sharing)
+    Our app is not availabe at this moment in Google Play due a conflict with the University of Salamanca. While this issue is solved donwload the APK from [here](https://drive.google.com/file/d/0BwS7cZg3riXtaUZxd3RXQ0k2WEE/view?usp=sharing)
 
 
 ### Contact us
