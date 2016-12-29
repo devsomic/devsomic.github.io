@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Devsomic - Developing ideas, building apps. Mobile applications for humans
 
-You can use the [editor on GitHub](https://github.com/devsomic/devsomic.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![header-image](resources/devsomic.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We craft digital products like mobile apps for fun and learning. We started devsomic some years ago during our Computer Science studies, and now it's a friends-brand for building the projects we love.
 
-### Markdown
+### Our projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We developed some projects previously like [uPadel](https://play.google.com/store/apps/details?id=com.devsomic.upadel), [Filmtastic](https://play.google.com/store/apps/details?id=es.mimo.filmtastic) or [Starship Sale](https://play.google.com/store/apps/details?id=com.upsa.mimo.starshipsale) but our most useful project is [uWiFi](https://play.google.com/store/apps/details?id=com.devsomic.uwifi) 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### UWiFi
 
-- Bulleted
-- List
+![uWiFi-logo](resources/uWiFi.png)
 
-1. Numbered
-2. List
+uWiFi is an Android app that lets users to set up their university accounts to connect to [EDUROAM](https://www.eduroam.org/) WiFi. Nowadays, there is only available the uWiFi app fixed for the [University of Salamanca's](http://usal.es) users.
+    
+    Our app is not availabe at this moment in Google Play due an image conflict with the University of Salamanca. While this issue is solved donwload the APK from [here](https://drive.google.com/file/d/0BwS7cZg3riXtaUZxd3RXQ0k2WEE/view?usp=sharing)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Contact us
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devsomic/devsomic.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you want to ping us, send us an email to [devsomic@gmail.com](mailto:devsomic@gmail.com) or follow us in:
+* Twitter [@devsomic](https://twitter.com/_juancb)
+* Facebook [@devsomic](https://facebook.com/devsomic)
+* [Website](http://devsomic.com)
